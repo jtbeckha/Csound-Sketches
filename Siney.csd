@@ -23,15 +23,16 @@ endin
 ;   start bpm
 t   0     90
 
-;	start	dur	    pitch
+;   start   dur	    pitch
+
 ; high part
-i1 	0 		0.5    	250
+i1  0       0.5     250
 i1  0.5     0.5     275
 i1  1       1       225
 i1  2.5     1       210
 i1  4       1.5     225
 
-i1 	8 		0.5    	250
+i1  8       0.5     250
 i1  8.5     0.5     275
 i1  9       1       225
 i1  10.5    1       210
